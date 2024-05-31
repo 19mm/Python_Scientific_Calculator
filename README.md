@@ -10,7 +10,7 @@ Class-based structure for better organization and code reusability.
 
 How to Use:
 1. Clone this repository.
-2. Open the script (`script.py` or similar name) in your preferred Python IDE.
+2. Open the script (`main.py` or similar name) in your preferred Python IDE.
 3. Run the script.
 4. Select the desired mode (Standard or Scientific) and follow the on-screen prompts to enter values and choose operations.
 
